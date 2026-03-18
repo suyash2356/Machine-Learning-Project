@@ -83,7 +83,7 @@ ML-Practice/
 ├── logistic_regression_sklearn.ipynb
 ├── Titanic_Survival_Classification_Logistic_Regression.ipynb
 ├── House_Price_Prediction_Linear_Regression.ipynb
-├── neural_network_basics.ipynb
+├── digit_recognition_DL.ipynb
 └── activation_functions.ipynb
 ```
 
