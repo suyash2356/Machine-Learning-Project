@@ -25,6 +25,7 @@ The notebooks in this repository include practice and exploration of the followi
 * Ridge Regression
 * Lasso Regression
 * Logistic Regression
+* Decision Tree
 
 ### Optimization
 
@@ -46,12 +47,6 @@ The notebooks in this repository include practice and exploration of the followi
 * Principal Component Analysis (PCA)
 * Singular Value Decomposition (SVD)
 
-### Neural Networks & Deep Learning Basics
-
-* Neural Network Fundamentals
-* Activation Functions
-* Binary Classification using Neural Networks
-
 ---
 
 ## 🛠 Libraries & Tools Used
@@ -63,7 +58,6 @@ These notebooks mainly use the following tools and libraries:
 * Pandas
 * Matplotlib
 * Scikit-learn
-* TensorFlow / Keras
 * Jupyter Notebook
 
 ---
@@ -84,7 +78,9 @@ ML-Practice/
 ├── Titanic_Survival_Classification_Logistic_Regression.ipynb
 ├── House_Price_Prediction_Linear_Regression.ipynb
 ├── digit_recognition_DL.ipynb
-└── activation_functions.ipynb
+├── flower_classification_using_decision_tree.ipynb
+└── model_evluation_selection.ipynb
+
 ```
 
 Each notebook contains:
@@ -105,7 +101,8 @@ Through these notebooks I have learned:
 * The difference between regression and classification problems
 * How regularization helps prevent overfitting
 * How dimensionality reduction techniques like PCA work
-* The basics of neural networks and activation functions
+* The basics of decision tree and random tree
+* Use of bagging, boosting and tree esemble
 * How to evaluate machine learning models using different metrics
 
 ---
@@ -119,7 +116,6 @@ I will continue expanding this repository as I learn more Machine Learning and A
 * Support Vector Machines (SVM)
 * K-Nearest Neighbors (KNN)
 * Clustering Algorithms
-* Deep Learning
 * Model Deployment
 
 ---
