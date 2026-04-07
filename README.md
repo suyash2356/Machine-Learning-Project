@@ -79,6 +79,7 @@ ML-Practice/
 ├── House_Price_Prediction_Linear_Regression.ipynb
 ├── digit_recognition_DL.ipynb
 ├── flower_classification_using_decision_tree.ipynb
+├── mall_customer_segmentation_using_k-mean clustering.ipynb
 └── model_evluation_selection.ipynb
 
 ```
